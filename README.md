@@ -29,3 +29,11 @@ Course: IT 3012
 Section: BSIT-BA 2C
 
  main
+
+Project Modules
+
+- Book Catalog
+- Inventory Management
+- Reports
+- User Accounts
+
