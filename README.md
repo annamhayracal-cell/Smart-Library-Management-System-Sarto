@@ -30,10 +30,10 @@ Section: BSIT-BA 2C
 
  main
 
- Project Modules
+Project Modules
 
-- Member Management
 - Book Catalog
-- Borrowing
-- Returning
+- Inventory Management
+- Reports
+- User Accounts
 
