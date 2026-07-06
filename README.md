@@ -12,6 +12,6 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
-Student Name:
-Course:
-Section:
+Student Name: Anna Mhay Sarto
+Course: BSIT-BA
+Section:2C
