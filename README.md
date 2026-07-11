@@ -47,3 +47,10 @@ Project Modules
 - Reports
 - User Accounts
 
+Contributor Update
+
+Contributor Name: 
+
+Feature Added:
+- Digital Library Dashboard
+
